@@ -26,13 +26,14 @@ jobs:
         id: snake
         with:
           github_user_name: lowizetech
-          outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Check status for debugging
-      - name: Check Git Status
-        run: git status
+      # Verify that dist/ was created
+      - name: List dist contents
+        run: |
+          echo "Checking dist directory..."
+          ls -l dist || echo "dist directory not found!"
 
       # Push the generated files to the output branch
       - name: Push snake files to output branch
