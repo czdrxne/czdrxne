@@ -1,6 +1,6 @@
 # “ PROBLEMA EADEM RATIONE SOLVI NON POTEST ”
 
-### **`Strategic | Motivated | Adaptive | Researcher | Technical`**
+### **`Strategic, Motivated, Adaptive, Researcher, Technical`**
 
 
 
@@ -17,15 +17,43 @@
 
 <br />
 
-### **`Languages | Libraries | Frameworks | Tools`**
+### **`Languages, Libraries, Frameworks, Tools`**
 <br />
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,cs,dotnet,git,postman,sublime,tailwindcss,vite,github,linux,bash" alt="tech icons" />
+<div style="display: flex;">
+  <img src="https://skillicons.dev/icons?i=html" alt="hypertext markup language" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=css" alt="cascading style sheet" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="microsoft .net" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=sublime" alt="sublime text" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="vite" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux ubuntu" />
+  <img src="" width="6" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash shell" />
 </div>
 
 <br /><br />
 
-### **`Statistics | Achievements`**
+### **`Statistics, Achievements, Percentage`**
 
 <br />
 
@@ -40,7 +68,7 @@
 
 <br /><br />
 
-### **`Socials | Contacts`**
+### **`Socials, Contacts`**
 
 <br />
 
