@@ -19,22 +19,42 @@
 
 ### **`Languages, Libraries, Frameworks, Tools`**
 <br />
-<div style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=html" alt="hypertext markup language" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="cascading style sheet" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="microsoft .net" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="git" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=sublime" alt="sublime text" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="vite" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="github" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux ubuntu" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash shell" style="margin-right: 6px;" />
+<div align="center">
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+</div>
+
+<br />
+
+<div align="center">
+  
+</div>
+
+<br />
+
+<div align="center">
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 
 <br /><br />
