@@ -6,9 +6,9 @@
 
 <br />
 
-<p align="justify">Hello, World! I’m Louise Czedrian, but whatever, just call me Lowiz or Zed. I approach development with curiosity and purpose, with a strong focus on clean code, pragmatics, and best practices. I’m highly detail-oriented and thoughtful about how systems are designed, built, and maintained. I care deeply about performance, memory efficiency, and security, and I enjoy thinking through trade-offs to create solutions that are both reliable and efficient.
+<p align="justify">Hello, World! I’m Louise Czedrian, but whatever, just call me Lowiz or Zed. I approach development with curiosity and purpose, with a strong focus on clean code, pragmatics, and best practices. I’m highly detail-oriented and thoughtful about how systems are designed, built, and maintained. I care deeply about performance, memory efficiency, and security, and I enjoy thinking through trade-offs to create solutions that are both reliable and efficient.</p>
 
-I’m learning-centered by nature, constantly studying new technologies and deepening my understanding of how things work under the hood. I’m genuinely passionate about tech and problem-solving, and I enjoy refining my skills through steady improvement and logical thinking. My work reflects clarity, efficiency, and intentional design, aiming to build systems that make sense, perform well, and serve a real purpose.</p>
+<p align="justify">I’m learning-centered by nature, constantly studying new technologies and deepening my understanding of how things work under the hood. I’m genuinely passionate about tech and problem-solving, and I enjoy refining my skills through steady improvement and logical thinking. My work reflects clarity, efficiency, and intentional design, aiming to build systems that make sense, perform well, and serve a real purpose.</p>
 
 <br />
 
