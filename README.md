@@ -1,4 +1,4 @@
-# “ PROBLEMA EADEM RATIONE SOLVI NON POTEST ”
+# “ 444 – CZDRXNE ”
 
 ### **`Strategic, Motivated, Adaptive, Researcher, Technical`**
 
