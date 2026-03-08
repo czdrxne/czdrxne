@@ -1,4 +1,4 @@
-# “ 444 – CZDRXNE ”
+# “ HELLO, WORLD! ”
 
 ### **`Strategic, Motivated, Adaptive, Researcher, Technical`**
 
